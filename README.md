@@ -22,3 +22,7 @@
 
 - 2024-11-13 added new items
 - 2024-11-13 Deleted old items
+
+# helpful websites for coding
+
+https://validator.w3.org/detailed.html
